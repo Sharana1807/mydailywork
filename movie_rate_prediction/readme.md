@@ -9,13 +9,14 @@ Director: The director of the movie.
 Actors: The main actors in the movie.
 
 Requirements
-Python 3.x
+Python 3.x 
+
 Required Python libraries:
-pandas
-numpy
-scikit-learn
-joblib
-xgboost (Optional, if using XGBoost)
+pandas ,
+numpy ,
+scikit-learn , 
+joblib,
+xgboost (Optional, if using XGBoost).
 
 Model trained with the dataset but i am not able upload the model file because of the trainded model is around 38MB.
 This is link of google drive: https://drive.google.com/file/d/1iyPKfEM0HaBCpKIzIS1F_6M3beqI348v/view?usp=drive_link
