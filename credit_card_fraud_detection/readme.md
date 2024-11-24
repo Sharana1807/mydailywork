@@ -32,3 +32,6 @@ Save the trained model using joblib for later use.
 Evaluation:
 
 Visualize the confusion matrix to understand the model's performance.
+
+
+i can not able to upload the dataset because its size is around 150MB, so here i mentioned link for dataset: https://drive.google.com/file/d/193vQjcfBmW_GigA5iT4LCFx7pW3uueNV/view?usp=drive_link
